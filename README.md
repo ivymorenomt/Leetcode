@@ -1,4 +1,7 @@
-# First Challenge
+# 30 Day Leetcode Challenge - May 2020
+This is my attempt of improving my problem solving skill using algorithms. I am using python as my main language for my next courses.
+
+## First Challenge
 
 You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.
 

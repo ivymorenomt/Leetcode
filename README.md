@@ -28,7 +28,7 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-#First Challenge
+# First Challenge
 
 You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.
 
@@ -38,11 +38,11 @@ You are given an API bool isBadVersion(version) which will return whether versio
 
 Example:
 
-'''Given n = 5, and version = 4 is the first bad version.
-
+```bash
+Given n = 5, and version = 4 is the first bad version.
 call isBadVersion(3) -> false
 call isBadVersion(5) -> true
 call isBadVersion(4) -> true
 
 Then 4 is the first bad version.
-'''
+```
